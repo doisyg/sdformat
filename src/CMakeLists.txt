@@ -28,6 +28,7 @@ set (sources
   Filesystem.cc
   Geometry.cc
   Gui.cc
+  Heightmap.cc
   ign.cc
   Imu.cc
   Joint.cc
